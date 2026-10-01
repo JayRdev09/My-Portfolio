@@ -1,6 +1,6 @@
 // ===== Typing Effect =====
 const typingText = document.getElementById('typing-text');
-const roles = ['Flutter & Web Developer', 'AI & IoT Innovator', 'CS Student', 'Problem Solver'];
+const roles = ['Flutter & Web Developer', 'AI & IoT Innovator', 'CS Graduate', 'Problem Solver'];
 let roleIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
